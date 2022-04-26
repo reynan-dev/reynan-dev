@@ -1,8 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo9527
-Fork on GitHub2250
-<h1 align="center">Salut! Je suis Reynan VIEIRA</h1>
+
+<h1 align="center">Hi! I'm Reynan VIEIRA</h1>
 <h3 align="center">A passionate frontend developer from Brésil</h3>
 
 - 🌱 I’m currently learning **Laravel PHP, Flask Python, Docker, UNIX**
