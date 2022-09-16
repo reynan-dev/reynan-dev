@@ -8,7 +8,7 @@ Curretly i'm:
 - ❓ interested in Python and FastAPI.
 
 <div align="center">
-<iframe src="https://giphy.com/embed/QNFhOolVeCzPQ2Mx85" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/QNFhOolVeCzPQ2Mx85" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/checkmatedigital-code-coding-monkey-QNFhOolVeCzPQ2Mx85">via GIPHY</a></p>
 </div>
   
 Find out more about me on <a href="https://www.linkedin.com/in/reynan-dev/" target="_blank">my linkedin</a>!
