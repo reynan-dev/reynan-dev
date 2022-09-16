@@ -1,36 +1,24 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Reynan, developer python 👨‍💻 still learning. 🚀
-
-</div>  
+### 🤙 I'm Reynan, developer python still learning. 🚀
   
+Curretly i'm:
 
-- 💻 working at Dillygence
-  
+- 💻 working at Dillygence.
 - 🌱 learning with Wild Code School
-  
-- ❓ with interest in Python and FastAPI
-  
+- ❓ interested in Python and FastAPI.
 
-<br/>  
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/reynan-dev/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/reynan-dev/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<iframe src="https://giphy.com/embed/QNFhOolVeCzPQ2Mx85" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
   
+Find out more about me on <a href="https://www.linkedin.com/in/reynan-dev/" target="_blank">my linkedin</a>!
 
 <br/>  
 
+### Current occupations
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=reynan-dev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+- Progressing to be a <a href="https://infinum.com/blog/t-shaped-developers/">t-shaped developer</a>.
 
+- Producing NFL's content in <a href="https://instagram.com/nfldazueira/">portuguese</a>.
+
+- Trying move on.
