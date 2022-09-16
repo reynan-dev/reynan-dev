@@ -8,7 +8,7 @@ Curretly i'm:
 - ❓ interested in Python and FastAPI.
 
 <div align="center">
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" align="center" style="width: 70%" />
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" align="center" style="width: 90%" />
 </div>
   
 Find out more about me on <a href="https://www.linkedin.com/in/reynan-dev/" target="_blank">my linkedin</a>!
