@@ -5,7 +5,7 @@ Curretly i'm:
 
 - 💻 working at Dillygence.
 - 🌱 learning with Wild Code School
-- ❓ interested in Python and FastAPI.
+- ❓ interested in Python and NodeJS.
 
 <div align="center"  style="width: 60%" >
 <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" align="center"/>
