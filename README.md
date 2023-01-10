@@ -17,5 +17,4 @@ Find out more about me on <a href="https://www.linkedin.com/in/reynan-dev/" targ
 
 - Progressing to be a <a href="https://infinum.com/blog/t-shaped-developers/">t-shaped developer</a>.
 - Producing NFL's content in <a href="https://instagram.com/nfldazueira/">portuguese</a>.
-- Trying move on.
-- Building a <a href="https://github.com/reynan-dev/expressing">new framework</a>, comming soon...
+- Building a <a href="https://github.com/reynan-dev/codenaute">code editor online</a>, comming soon...
