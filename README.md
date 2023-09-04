@@ -1,5 +1,5 @@
 
-### 🤙 I'm Reynan, developer python still learning. 🚀
+### 🤙 I'm Reynan, developer backend still learning. 🚀
   
 Curretly i'm:
 
