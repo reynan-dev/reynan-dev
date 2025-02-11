@@ -3,8 +3,8 @@
   
 Curretly i'm:
 
-- 💻 working on Mon Petit Gazon apps for LFP.
-- 🌱 learning about TypeScript and NoSQL Databases, like Couchbase.
+- 💻 working on my own apps.
+- 🌱 learning about TypeScript and NoSQL Databases, like MongoDB.
 - ❓ interested on Software Architetures.
 
 <div align="center"  style="width: 60%" >
@@ -16,4 +16,3 @@ Find out more about me on <a href="https://www.linkedin.com/in/reynan-dev/" targ
 ## Current occupations
 
 - Progressing to be a <a href="https://infinum.com/blog/t-shaped-developers/">t-shaped developer</a>.
-- Producing NFL's content in <a href="https://instagram.com/nfldazueira/">portuguese</a>
