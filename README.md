@@ -12,7 +12,3 @@ Curretly i'm:
 </div>
   
 Find out more about me on <a href="https://www.linkedin.com/in/reynan-dev/" target="_blank">my linkedin</a>! 
-
-## Current occupations
-
-- Progressing to be a <a href="https://infinum.com/blog/t-shaped-developers/">t-shaped developer</a>.
